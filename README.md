@@ -1,4 +1,4 @@
-## Yulio Valdes Cascales
+## Yulio Valdes
 
 Security-focused developer. I look for authorization and session bugs in open source
 projects, then send the fix with tests.
